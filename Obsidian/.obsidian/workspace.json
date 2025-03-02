@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c05a6aeda42ca6d9",
+        "id": "a9e6cfb96c9d35f7",
         "type": "tabs",
         "children": [
           {
-            "id": "7b505eac501c2090",
+            "id": "c33aac2fadffd0be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networks/1. Computer Networks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Computer Networks"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6b83ab1588f85203",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for a"
             }
           },
           {
@@ -161,19 +166,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdf448d3bc111c00",
+  "active": "c33aac2fadffd0be",
   "lastOpenFiles": [
+    "Computer Networks/Routing Algorithms and Multicast Routing.md",
+    "Computer Networks/1. Computer Networks.md",
+    "Computer Networks/Wireless and Mobile Networks.md",
+    "Computer Networks/Multimedia Networking.md",
+    "Computer Networks/Advanced Topics.md",
+    "Computer Networks/Link Virtualization and Data Center Networking.md",
+    "Computer Networks/Link Layer and Error Detection.md",
+    "Computer Networks/8..md",
+    "Computer Networks/7. TCP Congestion Control.md",
+    "Computer Networks/6. Transport Layer and UDP semantics and syntax..md",
+    "Computer Networks/5. Sockets programming.md",
+    "Computer Networks/4. Application Layer protocols.md",
+    "Computer Networks/3. Computer network and Internet.md",
+    "Computer Networks/2. Introduction.md",
+    "Computer Networks",
+    "REST API.md",
+    "Databases.md",
+    "Bittensor/Bittensor Notes.md",
+    "public/images/Pasted image 20250223174954.png",
+    "Bittensor/Docs.md",
+    "Bittensor",
+    "public/images/2nd-lvl-nf.png",
+    "public/images/lazy-loading.png",
+    "public/images",
+    "public",
     "Welcome.md",
-    "Databases/images/chen notation.png",
-    "Databases/images/2nd-lvl-nf.png",
+    "public/images/chen notation.png",
     "Databases/images",
-    "Databases/Databases.md",
     "Databases",
-    "REST API/images/write-through-cache.png",
-    "REST API/images/write-back-cache.png",
-    "REST API/images/lazy-loading.png",
+    "public/images/write-through-cache.png",
+    "public/images/write-back-cache.png",
     "REST API/images",
-    "REST API/REST API - Key Principles & Best Practices.md",
     "REST API"
   ]
 }
