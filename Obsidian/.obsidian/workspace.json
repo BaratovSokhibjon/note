@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c05a6aeda42ca6d9",
+        "id": "0ee69ef9bd79491e",
         "type": "tabs",
         "children": [
           {
-            "id": "7b505eac501c2090",
+            "id": "d61edaf053abeac8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networks/2. Introduction.md",
+                "file": "Databases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Introduction"
+              "title": "Databases"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 348.5004348754883
   },
   "right": {
     "id": "6b83ab1588f85203",
@@ -165,12 +165,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b505eac501c2090",
+  "active": "d61edaf053abeac8",
   "lastOpenFiles": [
-    "Computer Networks/1. Computer Networks.md",
-    "Computer Networks/2. Introduction.md",
-    "Databases.md",
+    "Computer Networks/1. Introduction.md",
+    "public/css",
+    "Computer Networks/7. Advanced Topics.md",
+    "Computer Networks/6. TCP Congestion Control.md",
+    "Computer Networks/5. Transport Layer and UDP semantics and syntax..md",
+    "Computer Networks/4. Sockets programming.md",
+    "Computer Networks/3. Application Layer protocols.md",
+    "Computer Networks/2. Computer network and Internet.md",
+    "Computer Networks/0. Computer Networks.md",
     "Clean Code.md",
+    "Databases.md",
     "REST API.md",
     "public/images/write-through-cache.png",
     "public/images/write-back-cache.png",
@@ -185,12 +192,6 @@
     "Computer Networks/Multimedia Networking.md",
     "Computer Networks/Link Virtualization and Data Center Networking.md",
     "Computer Networks/Link Layer and Error Detection.md",
-    "Computer Networks/Advanced Topics.md",
-    "Computer Networks/7. TCP Congestion Control.md",
-    "Computer Networks/6. Transport Layer and UDP semantics and syntax..md",
-    "Computer Networks/5. Sockets programming.md",
-    "Computer Networks/4. Application Layer protocols.md",
-    "Computer Networks/3. Computer network and Internet.md",
     "Computer Networks",
     "Bittensor/Docs.md",
     "Bittensor/Bittensor Notes.md",
