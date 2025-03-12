@@ -1,3 +1,12 @@
+---
+Textbook: CCNA Guide to Cisco Networking Fundamentals
+Start Date: March 1, 2025
+tags:
+  - data-communication
+  - computer-networks
+  - programming
+---
+
 [[1. Introduction]]
 [[2. Basic Switch and End Device Configuration]]
 [[3. Protocols and Models]]
