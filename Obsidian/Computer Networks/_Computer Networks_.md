@@ -1,8 +1,10 @@
 ---
-aliases: 
-cssclasses: 
+Textbook: "Computer Networking: A Top-Down Approach (A Top-Down Approach)"
+Start Date: March 1, 2025
 tags:
   - computer-networks
+  - concepts
+  - programming
 ---
 
 [[1. Introduction]]
