@@ -1,4 +1,3 @@
-## RESTful API Design
 
 > [! info] Info 
 > REST is an acronym for ==**RE**presentational **S**tate **T**ransfer== and an architectural style for **distributed hypermedia systems**. Roy Fielding first presented it in 2000 in his famous [dissertation](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm). Since then it has become one of the most widely used approaches for building web-based APIs (_Application Programming Interfaces_).
@@ -83,7 +82,7 @@
 		- ==High randomness of requests==
 		- Frequently updated data
 	- [Source](https://youtu.be/bP4BeUjNkXc?feature=shared)
-5. Uniform Interface
+4. Uniform Interface
 	- A ==Uniform interface== means that there's a standard way for clients (like apps or browsers) to talk with servers(where the data of functionality lives). This makes everything predictable and consistent, no matter what kind of resource or operation you're dealing with. 
 	
 	- To make this work **REST** has four main rules:
