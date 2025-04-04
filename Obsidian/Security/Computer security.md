@@ -67,12 +67,23 @@
 ![[Pasted image 20250404140829.png]]
 
 
-### SOC Metrics or KPI (Key performance indicators)
+#### SOC Metrics or KPI (Key performance indicators)
 - **Dwell Time** - the length of time that threat actors have access to a network before they are detected, and their access is stopped.
 - **Mean Time to Detect (MTTD)** - the average time that it takes for the SOC personnel to identify valid security incidents have occurred in the network.
 - **Mean Time to Respond (MTTR)** - the average time that it takes to stop and remediate a security incident.
 - **Mean Time to Contain (MTTC)** - the time required to stop the incident from causing further damage to systems or data.
 - **Time to Control** - the time required to stop the spread of malware in the network.
 
-### Availability & Security
+#### Availability & Security
 Enterprise networks prioritize uptime, balancing downtime costs against redundancy expenses. Tolerance varies by industry—e.g., small retail may accept a single router failure, while e-commerce demands redundancy. Uptime is measured in annual downtime minutes: "five nines" (99.999%) allows 5 minutes, "four nines" (99.99%) permits 53 minutes.
+
+| Availability %         | Downtime        |
+|-----------------------|-----------------|
+| 99.8%                 | 17.52 hours     |
+| 99.9% ("three nines") | 8.76 hours      |
+| 99.99% ("four nines") | 52.56 minutes   |
+| 99.999% ("five nines")| 5.256 minutes   |
+| 99.9999% ("six nines")| 31.56 seconds   |
+| 99.99999% ("seven nines") | 3.16 seconds |
+
+
